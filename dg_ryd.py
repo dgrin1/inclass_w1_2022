@@ -1,5 +1,6 @@
 #This program is the best python program ever
 R=1.097e-2
+R=7.e3
 for m in [1,2,3]:
 	print("Series for m =", m)
 	for k in [1,2,3,4,5]:
